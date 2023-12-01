@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-HREUHEI
+Date of Test: 2023-12-01 12:03:34
+Bubble Sort Time: 10.466305 seconds
+Quick Sort Time: 0.015470 seconds
+
