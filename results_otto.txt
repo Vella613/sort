@@ -1,5 +1,0 @@
-Computer Name: Schmartbook
-Date of Test: 2023-12-01 12:00:59
-Bubble Sort Time: 4.095734 seconds
-Quick Sort Time: 0.008144 seconds
-
